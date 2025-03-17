@@ -31,8 +31,10 @@ body{
 }
 
 .login-container .form-title{
-  padding: 1.5rem 1.5rem;
+  padding: 1.8rem 1.5rem;
   text-align: center;
+  padding-top: 0.25rem;
+  font-weight: 600;
 }
 
 .login-container .social-login{
