@@ -99,3 +99,14 @@ body{
   height: 1px;
   background: #bfb3f2;
 }
+
+.login-form .input-wrapper .input-field{
+  height: 100%;
+  width: 83%;
+  outline: none;
+  font-size: 1.06rem;
+  border-radius: 0.31rem;
+  border: 1px solid #bfb3f2;
+  padding: 0 1.25rem 0 3.12rem;
+
+}
